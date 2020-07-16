@@ -43,6 +43,7 @@ type (
 		Sha  string
 		Page int
 		Size int
+		Path string
 	}
 
 	// Signature identifies a git commit creator.
